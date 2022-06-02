@@ -12,6 +12,7 @@ from sklearn.metrics import f1_score, recall_score, accuracy_score, precision_sc
 
 
 def read_params(config_path):
+
     """
     read parameters from the params.yaml file
     input: params.yaml location
